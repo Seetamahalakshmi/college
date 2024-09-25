@@ -2,8 +2,6 @@ import streamlit as st
 from datetime import datetime
 from PIL import Image
 import base64
-import io
-from twilio.rest import Client
 import os
 
 def main():
